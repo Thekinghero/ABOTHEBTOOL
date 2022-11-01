@@ -3,6 +3,11 @@ WELCOM TO DDOS TOOL ABOTHEB DEV
 
 1. git clone https://github.com/Thekinghero/ABOTHEBTOOL
 
-2.unzip ABOTHEBTOOL
+2. cd ABOTHEBTOOL
 
-3.python or 2 or3 ABOTHEB DDOS TOOL.py
+3.unzip 'ABOTHEB DDOS TOOL.zip'
+
+4.python 'ABOTHEB DDOS TOOL.py'
+
+
+
